@@ -1,7 +1,7 @@
 # Hit or miss
 
 ## 24KA competition
-When I was in my first year of university I signed up for a slovakian marketing competition with my friend Jan Rákosník. It was a unique challenge that you don&#39;t get a chance to do everyday at work. The rules of the competition were simple - **It will last 24 hours.** On Saturday morning (9AM) we received an email with 4 short briefs. The finished idea for the campaign had to be sent till the morning on the next day.
+When I was in my first year of university I signed up for a slovakian **marketing competition Cirkulátor** with my friend Jan Rákosník. It was a unique challenge that you don&#39;t get a chance to do everyday at work. The rules of the competition were simple - **It will last 24 hours.** On Saturday morning (9AM) we received an email with 4 short briefs. The finished idea for the campaign had to be sent till the morning on the next day.
 
 ## Idea
 We chose to think about a marketing campaign on how to help forests in Slovakia. The problem was that people leave trash in nature, some of them don&#39;t go there at all and a lot of trees are cut down every year. We figured out a very weird solution and campaign plan. We wanted to base it on fake news. It was supposed to be a sort of Guerilla campaign.
