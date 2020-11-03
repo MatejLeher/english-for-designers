@@ -1,4 +1,4 @@
-Hit or miss
+﻿##Hit or miss
 
 When I was in my first year of university I signed up for a slovakian marketing
 competition with my friend Jan Rákosník. It was a unique challenge that you
