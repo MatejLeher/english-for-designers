@@ -79,8 +79,8 @@ team taking care of one big event on VŠE.
 
 **Product posts:**
    
-<img src="./images/OGT-post02.jpg" alt="OGT-post02" width="500"/> <img src="./images/OGT-post03.jpg" alt="OGT-post03" width="500"/>
-<img src="./images/OGT-post01.jpg" alt="OGT-post01" width="500"/> 
+<img src="./images/OGT-post02.jpg" alt="OGT-post02" width="300"/> <img src="./images/OGT-post03.jpg" alt="OGT-post03" width="300"/>
+<img src="./images/OGT-post01.jpg" alt="OGT-post01" width="300"/> 
 
 ### Prvákoviny VŠE 2020
 
@@ -105,15 +105,15 @@ committee.
 
 **Agenda posts:**
 
-<img src="./images/P-agenda02.jpg" alt="P-agenda02" width="500"/>    
+<img src="./images/P-agenda02.jpg" alt="P-agenda02" width="300"/>    
 
 **Workshop posts:**
 
-<img src="./images/P-workshop02.jpg" alt="P-workshop02" width="500"/> <img src="./images/P-workshop07.jpg" alt="P-workshop07" width="500"/> <img src="./images/P-workshop12.jpg" alt="P-workshop12" width="500"/>
+<img src="./images/P-workshop02.jpg" alt="P-workshop02" width="300"/> <img src="./images/P-workshop07.jpg" alt="P-workshop07" width="300"/> <img src="./images/P-workshop12.jpg" alt="P-workshop12" width="300"/>
 
 **Reminder posts:**
 
-<img src="./images/P-reminder01.jpg" alt="P-reminder01" width="500"/>
+<img src="./images/P-reminder01.jpg" alt="P-reminder01" width="300"/>
 
 ## **Second term**
 
