@@ -34,11 +34,11 @@ events.
 
 **Event cover:**
 
-<img src="./images/TL1-event-cover.jpg" alt="TL1-event-cover" width="500"/>
+<img src="./images/TL1-event-cover.jpg" alt="TL1-event-cover.jpg" width="500"/>
 
 **Event posts:**
 
-<img src="./images/TL1-post01.jpg" alt="TL1-post01" width="500"/>    <img src="./images/TL1-post02.jpg" alt="TL1-post02" width="500"/>
+<img src="./images/TL1-post01.jpg" alt="TL1-post01.jpg" width="500"/> <img src="./images/TL1-post02.jpg" alt="TL1-post02.jpg" width="500"/>
 
 
 ### TraveLink II
@@ -53,12 +53,12 @@ Evenings.
 
 **Event cover:**
 
-<img src="./images/TL2-event-cover.jpg" alt="TL2-event-cover" width="500"/>
+<img src="./images/TL2-event-cover.jpg" alt="TL2-event-cover.jpg" width="500"/>
 
 **Event posts:**
 
-<img src="./images/TL2-post01.jpg" alt="TL2-post01" width="500"/>    <img src="./images/TL2-post02.jpg" alt="TL2-post02" width="500"/>
-<img src="./images/TL2-post03.jpg" alt="TL2-post03" width="500"/>
+<img src="./images/TL2-post01.jpg" alt="TL2-post01.jpg" width="500"/>    <img src="./images/TL2-post02.jpg" alt="TL2-post02.jpg" width="500"/>
+<img src="./images/TL2-post03.jpg" alt="TL2-post03.jpg" width="500"/>
 
 ### End of term and Gala night
 
@@ -79,8 +79,8 @@ team taking care of one big event on VŠE.
 
 **Product posts:**
    
-<img src="./images/OGT-post02.jpg" alt="OGT-post02" width="300"/> <img src="./images/OGT-post03.jpg" alt="OGT-post03" width="300"/>
-<img src="./images/OGT-post01.jpg" alt="OGT-post01" width="360"/> 
+<img src="./images/OGT-post02.jpg" alt="OGT-post02.jpg" width="300"/> <img src="./images/OGT-post03.jpg" alt="OGT-post03.jpg" width="300"/>
+<img src="./images/OGT-post01.jpg" alt="OGT-post01.jpg" width="360"/> 
 
 ### Prvákoviny VŠE 2020
 
@@ -98,28 +98,27 @@ more than 70 attendees and we got about 15 applications for our
 committee.
 
 **Logo**
-
+<img src="./images/P-logo01.png" alt="P-logo01.png" width="200"/> <img src="./images/P-logo02.png" alt="P-logo02.png" width="200"/>
 **Event cover:**
 
-<img src="./images/P-event-cover.jpg" alt="P-event-cover" width="500"/>
+<img src="./images/P-event-cover.jpg" alt="P-event-cover.jpg" width="500"/>
 
 **Registration**
 
-<img src="./images/P-registration.jpg" alt="P-registration" width="300"/>
+<img src="./images/P-registration.jpg" alt="P-registration.jpg" width="300"/>
 
 **Agenda posts:**
 
-<img src="./images/P-agenda02.jpg" alt="P-agenda02" width="300"/>    
-<img src="./images/P-agenda03.jpg" alt="P-agenda03" width="300"/> 
-<img src="./images/P-agenda04.jpg" alt="P-agenda04" width="300"/> 
+<img src="./images/P-agenda02.jpg" alt="P-agenda02.jpg" width="300"/> <img src="./images/P-agenda03.jpg" alt="P-agenda03.jpg" width="300"/> <img src="./images/P-agenda04.jpg" alt="P-agenda04.jpg" width="300"/> 
 
 **Workshop posts:**
 
-<img src="./images/P-workshop02.jpg" alt="P-workshop02" width="300"/> <img src="./images/P-workshop07.jpg" alt="P-workshop07" width="300"/> <img src="./images/P-workshop12.jpg" alt="P-workshop12" width="300"/> <img src="./images/P-workshop08.jpg" alt="P-workshop08" width="300"/> <img src="./images/P-workshop05.jpg" alt="P-workshop05" width="300"/> <img src="./images/P-workshop13.jpg" alt="P-workshop13" width="300"/>
+<img src="./images/P-workshop02.jpg" alt="P-workshop02.jpg" width="300"/> <img src="./images/P-workshop07.jpg" alt="P-workshop07.jpg" width="300"/> <img src="./images/P-workshop12.jpg" alt="P-workshop12.jpg" width="300"/> <img src="./images/P-workshop08.jpg" alt="P-workshop08.jpg" width="300"/> <img src="./images/P-workshop05.jpg" alt="P-workshop0.jpg" width="300"/><img src="./images/P-workshop03.jpg" alt="P-workshop03.jpg" width="500"/> 
+<img src="./images/P-workshop13.jpg" alt="P-workshop13.jpg" width="300"/>
 
 **Reminder posts:**
 
-<img src="./images/P-reminder01.jpg" alt="P-reminder01" width="300"/>
+<img src="./images/P-reminder01.jpg" alt="P-reminder01.jpg" width="300"/>
 
 ## **Second term**
 
