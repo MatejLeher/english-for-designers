@@ -112,6 +112,7 @@ committee.
 <img src="./images/P-workshop02.jpg" alt="P-workshop02" width="500"/> <img src="./images/P-workshop07.jpg" alt="P-workshop07" width="500"/> <img src="./images/P-workshop12.jpg" alt="P-workshop12" width="500"/>
 
 **Reminder posts:**
+
 <img src="./images/P-reminder01.jpg" alt="P-reminder01" width="500"/>
 
 ## **Second term**
