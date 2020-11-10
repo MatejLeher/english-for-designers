@@ -32,6 +32,8 @@ Republic which is a team directing all 10 local committees in the
 country and will be used from now on by all of them for similar online
 events.
 
+<img src="./images/TL1-event-cover.jpg" alt="TL1-event-cover" width="1000"/>
+
 ### TraveLink II
 
 Shortly after first TraveLink we organized a second one. I got more free
