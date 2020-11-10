@@ -80,7 +80,7 @@ team taking care of one big event on VŠE.
 **Product posts:**
    
 <img src="./images/OGT-post02.jpg" alt="OGT-post02" width="300"/> <img src="./images/OGT-post03.jpg" alt="OGT-post03" width="300"/>
-<img src="./images/OGT-post01.jpg" alt="OGT-post01" width="400"/> 
+<img src="./images/OGT-post01.jpg" alt="OGT-post01" width="360"/> 
 
 ### Prvákoviny VŠE 2020
 
