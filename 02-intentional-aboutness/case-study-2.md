@@ -78,8 +78,10 @@ this term. So far I made a few promotional posts and I was also in the
 team taking care of one big event on VŠE.
 
 **Product posts:**
+   
+<img src="./images/OGT-post02.jpg" alt="TL1-post02" width="500"/> <img src="./images/OGT-post03.jpg" alt="TL1-post02" width="500"/>
+<img src="./images/OGT-post01.jpg" alt="TL1-post01" width="500"/> 
 
-<img src="./images/OGT-post01.jpg" alt="TL1-post01" width="500"/>    <img src="./images/OGT-post02.jpg" alt="TL1-post02" width="500"/> <img src="./images/OGT-post03.jpg" alt="TL1-post02" width="500"/>
 ### Prvákoviny VŠE 2020
 
 This is so far my biggest contribution in AIESEC. I was The person responsible for the whole marketing process of this
