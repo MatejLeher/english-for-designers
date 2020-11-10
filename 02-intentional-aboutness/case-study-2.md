@@ -98,7 +98,9 @@ more than 70 attendees and we got about 15 applications for our
 committee.
 
 **Logo**
+
 <img src="./images/P-logo01.png" alt="P-logo01.png" width="200"/> <img src="./images/P-logo02.png" alt="P-logo02.png" width="200"/>
+
 **Event cover:**
 
 <img src="./images/P-event-cover.jpg" alt="P-event-cover.jpg" width="500"/>
@@ -113,7 +115,7 @@ committee.
 
 **Workshop posts:**
 
-<img src="./images/P-workshop02.jpg" alt="P-workshop02.jpg" width="300"/> <img src="./images/P-workshop07.jpg" alt="P-workshop07.jpg" width="300"/> <img src="./images/P-workshop12.jpg" alt="P-workshop12.jpg" width="300"/> <img src="./images/P-workshop08.jpg" alt="P-workshop08.jpg" width="300"/> <img src="./images/P-workshop05.jpg" alt="P-workshop0.jpg" width="300"/><img src="./images/P-workshop03.jpg" alt="P-workshop03.jpg" width="500"/> 
+<img src="./images/P-workshop02.jpg" alt="P-workshop02.jpg" width="300"/> <img src="./images/P-workshop07.jpg" alt="P-workshop07.jpg" width="300"/> <img src="./images/P-workshop12.jpg" alt="P-workshop12.jpg" width="300"/> <img src="./images/P-workshop08.jpg" alt="P-workshop08.jpg" width="300"/> <img src="./images/P-workshop05.jpg" alt="P-workshop0.jpg" width="300"/><img src="./images/P-workshop03.jpg" alt="P-workshop03.jpg" width="300"/> 
 <img src="./images/P-workshop13.jpg" alt="P-workshop13.jpg" width="300"/>
 
 **Reminder posts:**
