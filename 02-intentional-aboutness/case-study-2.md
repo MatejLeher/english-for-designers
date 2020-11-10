@@ -32,7 +32,14 @@ Republic which is a team directing all 10 local committees in the
 country and will be used from now on by all of them for similar online
 events.
 
+**Event cover:**
+
 <img src="./images/TL1-event-cover.jpg" alt="TL1-event-cover" width="500"/>
+
+**Event posts:**
+
+<img src="./images/TL1-post01.jpg" alt="TL1-post01" width="500"/>    <img src="./images/TL1-post02.jpg" alt="TL1-post02" width="500"/>
+
 
 ### TraveLink II
 
