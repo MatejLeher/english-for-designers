@@ -103,13 +103,19 @@ committee.
 
 <img src="./images/P-event-cover.jpg" alt="P-event-cover" width="500"/>
 
+**Registration**
+
+<img src="./images/P-registration.jpg" alt="P-registration" width="300"/>
+
 **Agenda posts:**
 
 <img src="./images/P-agenda02.jpg" alt="P-agenda02" width="300"/>    
+<img src="./images/P-agenda03.jpg" alt="P-agenda03" width="300"/> 
+<img src="./images/P-agenda04.jpg" alt="P-agenda04" width="300"/> 
 
 **Workshop posts:**
 
-<img src="./images/P-workshop02.jpg" alt="P-workshop02" width="300"/> <img src="./images/P-workshop07.jpg" alt="P-workshop07" width="300"/> <img src="./images/P-workshop12.jpg" alt="P-workshop12" width="300"/>
+<img src="./images/P-workshop02.jpg" alt="P-workshop02" width="300"/> <img src="./images/P-workshop07.jpg" alt="P-workshop07" width="300"/> <img src="./images/P-workshop12.jpg" alt="P-workshop12" width="300"/> <img src="./images/P-workshop08.jpg" alt="P-workshop08" width="300"/> <img src="./images/P-workshop05.jpg" alt="P-workshop05" width="300"/> <img src="./images/P-workshop13.jpg" alt="P-workshop13" width="300"/>
 
 **Reminder posts:**
 
@@ -136,3 +142,5 @@ marketing. This means I will also become part of commision and
 communicate with Members Committee and other local committees in Czech
 Republic and I will be taking care of delegating work and leading my
 functional area.
+
+# Matěj Leher
