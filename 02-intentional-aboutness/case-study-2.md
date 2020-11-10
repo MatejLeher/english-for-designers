@@ -53,12 +53,12 @@ Evenings.
 
 **Event cover:**
 
-<img src="./images/TL2-event-cover.jpg" alt="TL1-event-cover" width="500"/>
+<img src="./images/TL2-event-cover.jpg" alt="TL2-event-cover" width="500"/>
 
 **Event posts:**
 
-<img src="./images/TL2-post01.jpg" alt="TL1-post01" width="500"/>    <img src="./images/TL2-post02.jpg" alt="TL1-post02" width="500"/>
-<img src="./images/TL2-post03.jpg" alt="TL1-post02" width="500"/>
+<img src="./images/TL2-post01.jpg" alt="TL2-post01" width="500"/>    <img src="./images/TL2-post02.jpg" alt="TL2-post02" width="500"/>
+<img src="./images/TL2-post03.jpg" alt="TL2-post03" width="500"/>
 
 ### End of term and Gala night
 
@@ -79,8 +79,8 @@ team taking care of one big event on VŠE.
 
 **Product posts:**
    
-<img src="./images/OGT-post02.jpg" alt="TL1-post02" width="500"/> <img src="./images/OGT-post03.jpg" alt="TL1-post02" width="500"/>
-<img src="./images/OGT-post01.jpg" alt="TL1-post01" width="500"/> 
+<img src="./images/OGT-post02.jpg" alt="OGT-post02" width="500"/> <img src="./images/OGT-post03.jpg" alt="OGT-post03" width="500"/>
+<img src="./images/OGT-post01.jpg" alt="OGT-post01" width="500"/> 
 
 ### Prvákoviny VŠE 2020
 
@@ -96,6 +96,22 @@ and it was a great team work experience and decision making process in
 which I gained a lot of experience. We had more than 200 registrations,
 more than 70 attendees and we got about 15 applications for our
 committee.
+
+**Logo**
+
+**Event cover:**
+
+<img src="./images/P-event-cover.jpg" alt="P-event-cover" width="500"/>
+
+**Agenda posts:**
+
+<img src="./images/P-agenda02.jpg" alt="P-agenda02" width="500"/>    
+
+**Workshop posts:**
+<img src="./images/P-workshop02.jpg" alt="P-workshop02" width="500"/> <img src="./images/P-workshop07.jpg" alt="P-workshop07" width="500"/> <img src="./images/P-workshop12.jpg" alt="P-workshop12" width="500"/>
+
+**Reminder posts:**
+<img src="./images/P-reminder02.jpg" alt="P-reminder01" width="500"/>
 
 ## **Second term**
 
