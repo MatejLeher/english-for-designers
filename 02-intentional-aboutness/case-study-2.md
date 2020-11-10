@@ -51,6 +51,15 @@ me to create quotes for the posts. This TraveLink was so far most
 successful in terms of attendance, even better than the offline Travel
 Evenings.
 
+**Event cover:**
+
+<img src="./images/TL2-event-cover.jpg" alt="TL1-event-cover" width="500"/>
+
+**Event posts:**
+
+<img src="./images/TL2-post01.jpg" alt="TL1-post01" width="500"/>    <img src="./images/TL2-post02.jpg" alt="TL1-post02" width="500"/>
+<img src="./images/TL2-post03.jpg" alt="TL1-post02" width="500"/>
+
 ### End of term and Gala night
 
 At the end of June we had Gala night to celebrate the term and there was
