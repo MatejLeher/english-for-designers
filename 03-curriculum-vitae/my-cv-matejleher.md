@@ -66,11 +66,11 @@ I am used  to work with Adobe CC, I focus on logo design, digital design and soc
 ------------------
 ## MY CERTIFICATES
 
-**CIRKULÁTOR – 24KA** | ***2019***
+### CIRKULÁTOR – 24KA | *2019*
 
-MARKETING COMPETITION AWARD
+**1ST PLACE** | MARKETING COMPETITION AWARD
 
-**FCE – FIRST CERTIFICATE IN ENGLISH** | ***2018***
+### FCE – FIRST CERTIFICATE IN ENGLISH | *2018*
 
 LEVEL B2
 
