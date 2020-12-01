@@ -36,7 +36,7 @@ Ii is my favorite exercise activity, because you can observe and also you are no
 **2020–present**
 
 I was working on creating promotional materials for online events and I was also responsible for promoting it on social media.
-I was promoted to position of marketing manager. In August and September I was part of a team creating bigger online event for University of Economics and I created logo and all promotional materials. I also did few presentations and sessions about marketing and design. Now I've been elected as vice-president of marketing functional area for next year.
+I was promoted to position of marketing manager. In August and September I was part of a team creating bigger online event for University of Economics, Prague and I created logo and all promotional materials. I also did few presentations and sessions about marketing and design. Now I've been elected as vice-president of marketing functional area for next year.
 
 ### AMNESTY INTERNATIONAL IN CHOTĚBOŘ <img src="./images/Amnesty-International-logo.png" alt="Amnesty-International-logo.png" width="180" image align="right"/>
 
