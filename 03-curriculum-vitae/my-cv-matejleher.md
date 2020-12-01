@@ -74,6 +74,7 @@ I am used  to work with Adobe CC, I focus on logo design, digital design and soc
 
 **CIRKULÁTOR – 24KA** ***2019***
 MARKETING COMPETITION AWARD
+
 **FCE – FIRST CERTIFICATE IN ENGLISH** ***2018***
 LEVEL B2
 
