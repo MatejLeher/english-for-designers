@@ -27,14 +27,8 @@ Ii is my favorite exercise activity, because you can observe and also you are no
 
 ## LANGUAGES
 
-### Czech – Native
-<img src="./images/dot.png" alt="dot.png" width="20"/>   <img src="./images/dot.png" alt="dot.png" width="20"/>   <img src="./images/dot.png" alt="dot.png" width="20"/>   <img src="./images/dot.png" alt="dot.png" width="20"/>   <img src="./images/dot.png" alt="dot.png" width="20"/>
-
-### English – B2
-<img src="./images/dot.png" alt="dot.png" width="20"/>   <img src="./images/dot.png" alt="dot.png" width="20"/>   <img src="./images/dot.png" alt="dot.png" width="20"/>   <img src="./images/grey-dot.png" alt="grey-dot.png" width="20"/>   <img src="./images/grey-dot.png" alt="grey-dot.png" width="20"/>
-
-### German – A2
-<img src="./images/dot.png" alt="dot.png" width="20"/>   <img src="./images/grey-dot.png" alt="grey-dot.png" width="20"/>   <img src="./images/grey-dot.png" alt="grey-dot.png" width="20"/>   <img src="./images/grey-dot.png" alt="grey-dot.png" width="20"/>   <img src="./images/grey-dot.png" alt="grey-dot.png" width="20"/>
+### Czech – Native     |      English – B2       |       German – A2
+### <img src="./images/dot.png" alt="dot.png" width="22"/>   <img src="./images/dot.png" alt="dot.png" width="22"/>   <img src="./images/dot.png" alt="dot.png" width="22"/>   <img src="./images/dot.png" alt="dot.png" width="22"/>   <img src="./images/dot.png" alt="dot.png" width="22"/> **|** <img src="./images/dot.png" alt="dot.png" width="22"/>   <img src="./images/dot.png" alt="dot.png" width="22"/>   <img src="./images/dot.png" alt="dot.png" width="22"/>   <img src="./images/grey-dot.png" alt="grey-dot.png" width="22"/>   <img src="./images/grey-dot.png" alt="grey-dot.png" width="22"/> **|** <img src="./images/dot.png" alt="dot.png" width="22"/>   <img src="./images/grey-dot.png" alt="grey-dot.png" width="22"/>   <img src="./images/grey-dot.png" alt="grey-dot.png" width="22"/>   <img src="./images/grey-dot.png" alt="grey-dot.png" width="22"/>   <img src="./images/grey-dot.png" alt="grey-dot.png" width="22"/>
 
 ----------------------
 ## WORK EXPERIENCE
@@ -72,10 +66,12 @@ I am used  to work with Adobe CC, I focus on logo design, digital design and soc
 ------------------
 ## MY CERTIFICATES
 
-**CIRKULÁTOR – 24KA** ***2019***
+**CIRKULÁTOR – 24KA** | ***2019***
+
 MARKETING COMPETITION AWARD
 
-**FCE – FIRST CERTIFICATE IN ENGLISH** ***2018***
+**FCE – FIRST CERTIFICATE IN ENGLISH** | ***2018***
+
 LEVEL B2
 
 -----------------
