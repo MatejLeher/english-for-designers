@@ -3,7 +3,11 @@
 
 I see copying as a way to learn from experienced professionals. Because how else would you train yourselve to become better designer, writer and painter or anything else? I think it is basicaly how most of the schools and universities teach art, by showing all the differns art styles from now existing trends or history.
 
+<img src="./img/lol-skin.jpg" alt="lol-skin.jpg" width="550"/> <img src="./img/skin-drawing.jpg" alt="skin-drawing.jpg" width="220"/>
+
 I also learned by copying or recreating artworks, redrawing the same pictures and sketching Pokemon or video game characters as well. That is also why I become to love the design. But then when you once become professional you can do that by copying other peoples work. Big part of why I try to become graphic designer is to see my work and creations in reality and being used by people, that way being proud of myself. In my mind you can not be proud of your work if you copied it from somebody else.
+
+<img src="./img/rebranding.png" alt="rebranding.png" width="220"/> <img src="./img/rebranding-2.png" alt="rebranding-2.png" width="250"/>
 
 Other thing is using design of your predecessors like logos and visuals or rebranding something, because you are following on their work and trying to make it better or you are guided by brand manual restrictions. 
 
