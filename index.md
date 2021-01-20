@@ -2,7 +2,7 @@
 
 - [About me](02-intentional-aboutness/about.md)
 - [Curriculum Vittae](03-curriculum-vitae/my-cv-matejleher.md)
-- [Curriculum Vittae (PDF version)](03-curriculum-vittae/my-cv-version-2-matejleher.pdf)
+- [Curriculum Vittae (PDF version)](03-curriculum-vitae/my-cv-version-2-matejleher.pdf)
 
 ## My Work
 - [Character Description](01-character-description/character-description.md)
