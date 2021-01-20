@@ -15,6 +15,6 @@
 - [2020 Story Presentation](05-presentation-storytelling/2020-story-presentation.md)
 - [2020 Story Presentation (PDF)](05-presentation-storytelling/matej-leher-presentation-2020-story.pdf)
 ------------
-- [Semestr Takeways](06-semester-takeaways/semester-takeaways.md)
+- [Semester Takeways](06-semester-takeaways/semester-takeaways.md)
 -----
 [Home](https://github.com/MatejLeher)
