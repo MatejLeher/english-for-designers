@@ -5,7 +5,7 @@
 - [Curriculum Vittae (PDF version)](03-curriculum-vittae/my-cv-version-2-matejleher.pdf)
 
 ## My Work
-- [Charcter Description](01-character-description/charecter-description.md)
+- [Charcter Description](01-character-description/character-description.md)
 - [Case Study 1](02-intentional-aboutness/case-study.md)
 - [Case Study 2](02-intentional-aboutness/case-study-2.md)
 ------------
