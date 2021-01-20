@@ -1,13 +1,13 @@
 # **Matěj Leher | English for designers**
 
-- [Charcter Description](01-character-description/charecter-description.md)
-------------
-- [Intentional Aboutness](02-intentional-aboutness/about.md)
-- [Case Study 1](02-intentional-aboutness/case-study.md)
-- [Case Study 2](02-intentional-aboutness/case-study-2.md)
-------------
+- [About me](02-intentional-aboutness/about.md)
 - [Curriculum Vittae](03-curriculum-vitae/my-cv-matejleher.md)
 - [Curriculum Vittae (PDF version)](03-curriculum-vittae/my-cv-version-2-matejleher.pdf)
+
+## My Work
+- [Charcter Description](01-character-description/charecter-description.md)
+- [Case Study 1](02-intentional-aboutness/case-study.md)
+- [Case Study 2](02-intentional-aboutness/case-study-2.md)
 ------------
 - [Copying Chapter](04-voice-tone/copying-chapter-6.md)
 - [Voice & Tone](04-voice-tone/voice-tone-worksheet.md)
