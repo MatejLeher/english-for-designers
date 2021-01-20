@@ -1,6 +1,6 @@
 # **Matěj Leher | English for designers**
 
-- [Charcter Description](01-character-description/charecter-description)
+- [Charcter Description](01-character-description/charecter-description.md)
 ------------
 - [Intentional Aboutness](02-intentional-aboutness/about.md)
 - [Case Study 1](02-intentional-aboutness/case-study.md)
