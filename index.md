@@ -9,17 +9,12 @@
 - [Case Study 1](02-intentional-aboutness/case-study.md)
 - [Case Study 2](02-intentional-aboutness/case-study-2.md)
 
-------------
-
 - [Copying Chapter](04-voice-tone/copying-chapter-6.md)
 - [Voice & Tone](04-voice-tone/voice-tone-worksheet.md)
 
-------------
 
 - [2020 Story Presentation](05-presentation-storytelling/2020-story-presentation.md)
 - [2020 Story Presentation (PDF)](05-presentation-storytelling/matej-leher-presentation-2020-story.pdf)
-
-------------
 
 - [Semester Takeways](06-semester-takeaways/semester-takeaways.md)
 
