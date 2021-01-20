@@ -13,7 +13,7 @@
 - [Voice & Tone](04-voice-tone/voice-tone-worksheet.md)
 ------------
 - [2020 Story Presentation](05-presentation-storytelling/2020-story-presentation.md)
-- [2020 Story Presentation (PDF)](05-presentation-storytelling/matej-leher-presentation-story.pdf)
+- [2020 Story Presentation (PDF)](05-presentation-storytelling/matej-leher-presentation-2020-story.pdf)
 ------------
 - [Semestr Takeways](06-semester-takeaways/semester-takeways.md)
 -----
