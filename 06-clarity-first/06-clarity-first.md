@@ -20,7 +20,7 @@ This bachelor's thesis is focused on creating new visual style and marketing cam
 
 1. Designing new visual identity and campaing of Festival Fantazie.
 2. Touching on interesting difference between popular culture aspect of the event and sub culture of audiance.
-4. Analysis of foreign competition (In Czech Republic is no competition, they are pretty much biggest).
+4. Analysis of foreign competition (In Czech Republic there is almost no competition).
 5. Invest in differnt social media like Discord, Twitch and Reddit to involve more with community.
 6. Define clear structure of brand and sub brands and sub events of Festival Fantazie.
 7. Creating new communication strategy and marketing timeline.
