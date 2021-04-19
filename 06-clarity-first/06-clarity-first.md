@@ -32,20 +32,15 @@ This bachelor's thesis is focused on creating new visual style and marketing cam
 
 ## Keywords
 
-- Marketing communication
+- Visual Style
 - Social media campaign
-- Alternative social media 
+- Marketing Campaign 
 - Graphic design
 - Popcuture 
-- Fiction & Fantasy
-- Event promotion
-- Instagram
-- Facebook
-- Twitch
-- Discord
-- Reddit
-- Promotion planning
-- Campaign timeline
+- Festival
+- Popcultural Festival
+- Social Media
+
 
 ## References
 Literature Resources:
@@ -56,6 +51,9 @@ Literature Resources:
 
 Online resources:
 - https://www.chip.cz/
+- https://www.czechlit.cz/cz/zdroje/ceska-literatura-ve-strucnem-prehledu/nova-fantastika/
+- https://philosophynow.org/issues/64/Pop_Culture_An_Overview
+- https://mrpopculture.com/what-is-pop-culture/
 
 Research
 - https://www.festivalfantazie.cz/
