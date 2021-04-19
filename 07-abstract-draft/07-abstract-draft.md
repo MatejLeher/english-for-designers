@@ -1,7 +1,10 @@
 # The Abstract Draft
 
-This work aims to create new and fresh visual style of promotiaonal campaign for popcultural event that was for a several years called the biggest event of it's king in the mid and eastern Europe, but has fallen from grace since. Goal of the work is to atract new audience and give this event new life and direction.
+Bachelor thesis is focused on creating a new visual style and campaign for Festival Fantazie in Chotěboř, one of the biggest festivals of popular culture in The Czech Republic. This event, that once dominated in middle and east Europe, is becoming more and more forgotten. The SFK Avalon club which organizes this event did not manage to keep up with the times due to bad communication on social media and basically runs it the same tracks and lives mainly of its loyal fans that know about it already. Main focus of this thesis is to turn around this trend and come up with a visual style of communication mainly on social media.
 
-The theoretical part of the work is focused on analyzing the aspects of popculture and on the other hand subculture of the fans of such event, especially in Czech Republic. Do a research on how trends in popular culture have influence on media and marketing. It describes how to find right social media for marketing your product depending on the interests of target group. Defining timeline of promotion campain and key points of it. 
-
-The practical part of this work shows more visualy the process of creating promo campaign. Key component of work are social media materials on different platforms, merch mock-ups, and refigned logo.
+Theoretical part contains description of influences of popular culture in the world of media and marketing and it also discusses its connotations with more or less subcultural fanbase of individual cultural branches. It also includes research and analysis of visual style and communication of foreign events with similar themes.  Last but not least it analyzes social media which would be beneficial to include in the marketing strategy of the SFK Avalon club.
+ 
+Practical part is focused on showing the design of the new visual style for the campaign which aims to target old and new audiences and reach the growth of popularity of Festival Fantazie. It describes the mindflow and justification of steps during the creation process and final form of graphical materials.
+ 
+# Keywords
+visual style, marketing campaign, popular culture, social media, festival, popcultural festival, graphic design
