@@ -73,7 +73,7 @@ Then I began with research of other events and their visual style and communicat
 <img src="./images/19.jpg" alt="19.jpg" width="1000"/>
 <img src="./images/20.jpg" alt="20.jpg" width="1000"/>
 
-Comic conventions take lot of inspiration from comic book art stylisation. Color splashes or dottet patterns. It often is more retro and somtimes even childish which does not fit to Festival Fantazie with its older audience. And it also does not combign everything that this event has to offer.
+**Comic conventions** take lot of inspiration from comic book art stylization. Color splashes or dottet patterns. It often is more retro and somtimes even childish which does not fit to Festival Fantazie with its older audience. And it also does not combign everything that this event has to offer.
 
 -----------
 
@@ -81,14 +81,14 @@ Comic conventions take lot of inspiration from comic book art stylisation. Color
 <img src="./images/22.jpg" alt="22.jpg" width="1000"/>
 <img src="./images/23.jpg" alt="23.jpg" width="1000"/>
 
-Gaming conventions and esport events are more modern. Graphic design is usualy 3D. For example Dreamhack shares dottet pattern with comic conventions but does it in three dimentional style. But in comarison with Festival Fantazie it is too "high quality" and might give different expectations to the viewer.
+**Gaming conventions and esport events** are more modern. Graphic design is usualy 3D. For example Dreamhack shares dottet pattern with comic conventions but does it in three dimentional style. But in comarison with Festival Fantazie it is too "high quality" and might give different expectations to the viewer.
 
 ----------
 
 <img src="./images/25.jpg" alt="25.jpg" width="1000"/>
 <img src="./images/26.jpg" alt="26.jpg" width="1000"/>
 
-Asian conventions are handled usualy very artisticaly and differently than western conventions. For that reason I will not take inspiration from them
+**Asian conventions** are handled usualy very artisticaly and differently than western conventions. For that reason I will not take inspiration from them
 
 -----------
 
@@ -167,7 +167,7 @@ Last new platform is Twitch and this is mainly to stream the content of the Fest
 
 --------
 
-<img src="./images/FF plakát.jpg" alt="33.jpg" width="1000"/>
+<img src="./images/FF2.jpg" alt="33.jpg" width="1000"/>
 
 All social media need emoticons. Lot of them are right now allowing doing custom emojis and especialy on Twitch it is part of the culture. I wanted to make emoticons that can be used as emojis but also as navigation signs or on merchendise.
 
