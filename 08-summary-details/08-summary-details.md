@@ -5,7 +5,7 @@
 
 <img src="./images/02.jpg" alt="02.jpg" width="1000"/>
 
-First thing inportant to do good thesis is to defing goal of your job when choosing the topic. In my case the main goal is to create new promotional campaign focused on social media. It is important because this event is loosing popularity and visibility. With that I will also analyze what social media should Festival Fantazie use in addition to regular ones (Facebook, Instagram) and last inportant thin in my mind was to define more suitable subtitle. Which right now is Festival of popular culture. That is very general statement and does not really tell what is this events theme.
+First thing important to do good thesis is to defing goal of your job when choosing the topic. In my case the main goal is to create new promotional campaign focused on social media. It is important because this event is loosing popularity and visibility. With that I will also analyze what social media should Festival Fantazie use in addition to regular ones (Facebook, Instagram) and last inportant thin in my mind was to define more suitable subtitle. Which right now is Festival of popular culture. That is very general statement and does not really tell what is this events theme.
 
 --------
 
