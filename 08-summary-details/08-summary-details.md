@@ -167,11 +167,11 @@ Last new platform is Twitch and this is mainly to stream the content of the Fest
 
 --------
 
-<img src="./images/FF2.jpg" alt="33.jpg" width="1000"/>
+<img src="./images/FF2.jpg" alt="33.jpg" width="500"/>
 
 All social media need emoticons. Lot of them are right now allowing doing custom emojis and especialy on Twitch it is part of the culture. I wanted to make emoticons that can be used as emojis but also as navigation signs or on merchendise.
 
 ---------
 
-<img src="./images/FF plakát.jpg" alt="33.jpg" width="1000"/>
+<img src="./images/FF plakát.jpg" alt="33.jpg" width="500"/>
 
