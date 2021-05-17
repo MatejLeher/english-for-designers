@@ -17,7 +17,7 @@ Festival Fantazie is mainly about fiction and games. This is how some articles a
 
 <img src="./images/04.jpg" alt="04.jpg" width="1000"/>
 
-I was studiing history and progress of popular culture and stumbled upon interesting issue of subculture. Many genres of differet types of culture began as minor thing but later became popular due to media and technological innovations. This creates problem of things and genres that are part of popular culture but their fandom shares more aspects with defitnition of subculture
+I was studying history and progress of popular culture and stumbled upon interesting issue of subculture. Many genres of differet types of culture began as minor thing but later became popular due to media and technological innovations. This creates problem of things and genres that are part of popular culture but their fandom shares more aspects with defitnition of subculture
 
 --------
 
@@ -175,3 +175,4 @@ All social media need emoticons. Lot of them are right now allowing doing custom
 
 <img src="./images/FF plakát.jpg" alt="33.jpg" width="500"/>
 
+Tje last past of presentation is ilustrated poster which is representing every year of festival. My version was this time made in mind of new campaign and features of the event. Dark blue sky is representing the background, white stars evoke the dottet style which I was describing and logo is placed on the shining fulll moon signalizing new redesign of it. Mountains, forest and lake is hyperstylisation of the Chotěboř region (Iron moutains, water tanks and ponds and nature). The lower half of poster is smeared and fogy representing the main fiction genres (horror, fantasy) and unidentified object (Sci-fi) has hidden refference to the title used by residents of Chotěboř to describe fans and participants of the festival ("UFO-ni" = aliens)
